@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lincebot-esec",
+  "private_key_id": "05bf5eb9d6773c9a94807e0a3a46f6f3536ab71e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7L1hpqbTVJIdO\n202JiUdQmqUhJ46YXpoNtkbVRjUhLl+fkqTfkkAPhc3TxlsGD82tLpfDKw2EIciC\nMeVqpNm/8w07UmG9JeD27kfEO3Lq5kJYVKOEn1NLwc8xbEWyxdFwl0vREa9rJ/XE\nSkGMWGHeXYy/9CpHOLFQxZWZ4NRX2aAlRwqRABoIof9ToU/JfAVQoiYUASCcq7SI\nA4WLxSCkq8Y318DBpssBeTPHKAD3owoe51JxPCqBrNVzVtyUM96fQyFjRYBrqdde\n95Zo4pc8JrOcS+/5cw8XmS+7ml4esE1Ab49+gW1b0ZSjbwtfB5urKxLJBmmw3QZs\nACKSnx6DAgMBAAECggEAG6HNGOgC+FXonYT1KMD5pJX3m3HV9Hs+nZiTU0eGb0wD\ntLA2o4RY7ZGwhTsqU7ZAg/i1UYvI9oDwMvv/pGMKe/H6uY+bOwtc7sbVFEw8Vh3A\nnH5+FwVYC/5jwiV8EnxuQwMqn4XPUe+3sY7Op1OiuusvbGS0Wwgs8MICKBGO9xq5\n0GyiVF5PnN1kKmNDe6GfioT0PxRMKn9ZhYORs3Zuneb4GrXva8ocjmTzmDhkeU6x\nvRNrWKPImahuL14n8olXpOHMhBjbdM17xK7kyCLo+U6jqsaMrSf19fuye+J978Ny\nmNYSbAH9bjfKvWU48ThI6X/RW0n91WtC8TkCrId0EQKBgQDut5NKcTwDslM0i92x\njC4KJlBzc80Rq1fruBL/N30z0ggpLn9KO3oIuNHKP8HntBWB1VvpSkT/oxkRc8wq\n3b17gmnoCGXdMcqCmICMlGL3GO/inHtL+VIGym8BdHly3pKznFSHOq/2UpmTb7Jr\nhAGM74DI5Zpx1MvWbMwKNdslkwKBgQDIvKoBiVEB6ua0qh246k5OrGcwx3voV08M\nHsdU/cMdF7bPmW0m+behygXrSmfkllvt7mhaAGUKrkjU0djnzsyX5abYKlIHSQlM\nAxwr0Z9WJV4je0BVyeSXeMuYfcxd1ZylBm5ueDopKwfLFXCKCiv1u5su2vVJND84\nemicQfu5UQKBgQDlHZKjz1yvm5cahueHwihqG2358XowbEjdd/XbuLFVbE/i3rrT\nT5SIDINmX51HOuOtkk898MeaqDqmMoMR3XNAuOHXD0Bdda2NfLtcsgruaKPM1y3L\ntIcS93Zlahoqsw8QjonepOhAPfUiugEAClnGoBT2PNDoUjo2GoQXhKtKOwKBgDvU\nJ2Nv1uoYZgygy10K0K4YKmVaf26/XvsAzW5id93a7IyxcNv1/6pD+UGompCB1AJ1\nVTrF9VeanHB53wkwFMCNHQ4+htZPCWtTXfkdcD0PxCAVIxaupugSg7P+goPRH+/7\nm7xnLwaIIbmAuVsbLwD9moH7lrHr1Y/yw+0WqX0RAoGAGBeSn0UgexKltetsVTlI\nMeRPZ0TROh9k1idfglTVHbj96pkcu0ENSMHaoPG5s3yvBWf/0yGQ4t4HsWJwWo1l\nG2acWKJB+JRZuUfnNCVOOafL2sBHmlqARHy9c/8pWCcJ+CdOz8epAxEoi2L+yHt3\nv4lVRGuOTQyzvXajXo1cpq0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chat-bot-lince-service@lincebot-esec.iam.gserviceaccount.com",
+  "client_id": "116982947557911456335",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chat-bot-lince-service%40lincebot-esec.iam.gserviceaccount.com"
+}
